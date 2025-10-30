@@ -25,7 +25,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
 
 #### Development tools and IDEs:
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,npm,figma,visualstudio,)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,npm,figma,visualstudio)
 
 #### Version control and operating systems:
 ![My Skills](https://skillicons.dev/icons?i=git,github,windows)
