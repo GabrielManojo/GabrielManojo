@@ -31,7 +31,7 @@
 ![My Skills](https://skillicons.dev/icons?i=git,github,windows)
 
 #### Miscellaneous tools:
-![My Skills](https://skillicons.dev/icons?i=unit,unreal)
+![My Skills](https://skillicons.dev/icons?i=unity,unreal)
 
 #### Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrdelmanto&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&hide=jupyter%20notebook)
