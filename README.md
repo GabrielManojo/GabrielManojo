@@ -60,8 +60,6 @@
 
 ### Thank's for visiting! :)
 
-<img src="https://raw.githubusercontent.com/GabrielManojo/GabrielManojo/snake/snake-dark.svg" alt="Snake animation" />
-
 </div>
 
 <!-- Saving for later -->
